@@ -1,0 +1,15 @@
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/nasibikhtiyarli/Desktop/Projects/first-Project/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
